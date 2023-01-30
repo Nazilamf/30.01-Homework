@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C#\26.01. Lesson task\26.01. Lesson task\bin\Debug\netcoreapp3.1\26.01. Lesson task.exe
+C:\Users\HP\Desktop\C#\26.01. Lesson task\26.01. Lesson task\bin\Debug\netcoreapp3.1\26.01. Lesson task.deps.json
+C:\Users\HP\Desktop\C#\26.01. Lesson task\26.01. Lesson task\bin\Debug\netcoreapp3.1\26.01. Lesson task.runtimeconfig.json
+C:\Users\HP\Desktop\C#\26.01. Lesson task\26.01. Lesson task\bin\Debug\netcoreapp3.1\26.01. Lesson task.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C#\26.01. Lesson task\26.01. Lesson task\bin\Debug\netcoreapp3.1\26.01. Lesson task.dll
+C:\Users\HP\Desktop\C#\26.01. Lesson task\26.01. Lesson task\bin\Debug\netcoreapp3.1\26.01. Lesson task.pdb
+C:\Users\HP\Desktop\C#\26.01. Lesson task\26.01. Lesson task\obj\Debug\netcoreapp3.1\26.01. Lesson task.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\26.01. Lesson task\26.01. Lesson task\obj\Debug\netcoreapp3.1\26.01. Lesson task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\26.01. Lesson task\26.01. Lesson task\obj\Debug\netcoreapp3.1\26.01. Lesson task.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\26.01. Lesson task\26.01. Lesson task\obj\Debug\netcoreapp3.1\26.01. Lesson task.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\26.01. Lesson task\26.01. Lesson task\obj\Debug\netcoreapp3.1\26.01. Lesson task.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\26.01. Lesson task\26.01. Lesson task\obj\Debug\netcoreapp3.1\26.01. Lesson task.dll
+C:\Users\HP\Desktop\C#\26.01. Lesson task\26.01. Lesson task\obj\Debug\netcoreapp3.1\26.01. Lesson task.pdb
+C:\Users\HP\Desktop\C#\26.01. Lesson task\26.01. Lesson task\obj\Debug\netcoreapp3.1\26.01. Lesson task.genruntimeconfig.cache
